@@ -20,7 +20,7 @@ echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.18"
-libsodium_url="https://github.com/cqwifi/s-op/releases/download/s-op-1.0.18/libsodium-1.0.18.tar.gz"
+libsodium_url="https://github.com/qcwifi/s-op/releases/download/s-op-1.0.18/libsodium-1.0.18.tar.gz"
 
 # Current folder
 cur_dir=`pwd`
